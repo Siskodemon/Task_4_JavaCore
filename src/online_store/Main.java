@@ -1,4 +1,4 @@
-package onine_store;
+package online_store;
 
 import java.util.Random;
 

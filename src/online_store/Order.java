@@ -1,6 +1,4 @@
-package onine_store;
-
-import java.util.Random;
+package online_store;
 
 public class Order {
     Customer customer;
